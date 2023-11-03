@@ -1,4 +1,7 @@
-![Features Distribution](features_distribution.png)
+<p align="center">
+  <img src="features_distribution.png" alt="Features Distribution" width="90%" height="auto"/>
+</p>
+
 
 ## Abstract
 The remarkable advances in natural language processing, embodied by the advent of large language models (LLMs) like GPT-3, have brought about both promise and peril. These LLMs, with their capacity to generate impressively coherent and fluent text, empower a spectrum of applications ranging from conversational agents to creative writing aids, and productivity-boosting auto-completion programs. However, these same capabilities risk enabling malicious activities, such as mass production of synthetic disinformation, spam, and phishing content ([Solaiman et al., 2019](https://example.com/solaiman2019release), [Spitale, 2023](https://example.com/spitale2023ai), [Gradon, 2023](https://example.com/gradonm2023electric)).
